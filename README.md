@@ -13,7 +13,7 @@
 
 论文这么多，哪些才值得认真读呢？快过年了，给大家梳理一下，大家过年带回家仔细研究一下。
 
-![加入社群，+v: iamxxn886](/assets/qrcode.png)
+![加入社群，+v: iamxxn886](assets/qrcode.png)
 
 ## 2. 哪些RAG综述值得一读
 
